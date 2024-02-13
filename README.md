@@ -1,3 +1,6 @@
+[![Proxy Updater](https://github.com/V2535/Proxy-List/actions/workflows/auto-update.yml/badge.svg)](https://github.com/V2535/Proxy-List/actions/workflows/auto-update.yml)
+
+
 <div align="center">
 
 # proxy-list
